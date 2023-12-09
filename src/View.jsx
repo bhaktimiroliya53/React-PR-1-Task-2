@@ -36,7 +36,7 @@ class View extends Component {
                                     <td>{val.empname}</td>
                                     <td>{val.empemail}</td>
                                     <td>{val.empphone}</td>
-                                    <td>{val.empaddress.country}</td>
+                                    <td>{val.empaddress.country}</td> 
                                     <td>{val.empaddress.state}</td>
                                     <td>{val.empaddress.city}</td>
                                     <td>{val.empaddress.area}</td>
