@@ -28,7 +28,7 @@ class View extends Component {
                             <td>DEPARMENT</td>
                         </tr>
                     </thead>
-                    <tbody>  
+                    <tbody>    
                         {
                             this.state.allemp.map((val) => 
                                 <tr key={val.empid}>
